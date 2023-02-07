@@ -1,0 +1,35 @@
+--Voice Chat--
+
+[N] --> Disable Voice Chat
+[M] --> Mute Microphone
+[Caps Lock] --> Key for push to talk option
+[V] --> Voice Chat GUI
+[G] --> Voice Chat Group
+
+
+--Journey Map--
+
+[B] --> Create waypoint
+[J] --> Show/Hide Fullscreen Map
+[Y] --> Show/Hide MiniMap
+[\] --> Switch MiniMap Preset
+[O] --> Waypoint Manager
+
+
+--Handy Functions--
+
+[Z] --> Zoom
+[Z + Scroll] --> Change zoom strength
+
+["["] --> Lower Brightness
+["]"] --> Raise Brightness
+
+[I] --> View Screenshots
+
+[R] --> Roll
+
+--Misc--
+
+[Left Alt] --> Create Access nearby toolboxes
+
+[K] --> Do a Barrel Roll Toggle Thrust
