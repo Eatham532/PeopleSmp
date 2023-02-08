@@ -1,1 +1,16 @@
-Testing
+We have several big mods:
+  Create
+  Croptopia
+  Graveyard/Greaveyard biomes
+  Incendium
+  Better end
+  Macaw's doors, fence, lights, roofs, trapdoors, windows
+  Medieval Weapons
+  Numastic Overhual
+  Traverse
+  Universal graves
+  Voicechat
+  Wondrous Wild
+Then there are lots of other mods that are on the server but boost performance
+Also several several clients side mods that you can remove
+  
