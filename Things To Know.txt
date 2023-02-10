@@ -1,9 +1,11 @@
 We have several big mods:
   Create
-  Croptopia
+    Its quite complex, but basicly it just uses irl physics to make stuff
+  Levelz: to Slow speed running                                                             MAY be removed
+  Croptopia: MORE FOOD
   Graveyard/Greaveyard biomes
-  Incendium
-  Better end
+  Incendium: Nether datapack, very cool, it competly overhalls how the nether looks.
+  Better end: End mod, It adds end biomes and more armour, lots of new blocks.
   Macaw's doors, fence, lights, roofs, trapdoors, windows
   Medieval Weapons
   Numastic Overhual
