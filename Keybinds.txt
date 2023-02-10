@@ -28,6 +28,8 @@
 
 [R] --> Roll
 
+[W] --> (While hovering a create item) View details about the create item
+
 --Misc--
 
 [Left Alt] --> Create Access nearby toolboxes
