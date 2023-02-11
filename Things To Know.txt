@@ -21,3 +21,4 @@ Then there are lots of other mods that are on the server but boost your performa
   
 - Mobs will despawn if they have armour or an item in their hand. To stop them from despawning you need to nametag them! Entities are the largest causes of lag.
 - Goblins give you some really neat trades. However you will only find them in 2 of the 3 dimentions. 
+- If you name tag a mob "Silence Me" they won't make any more noises!
