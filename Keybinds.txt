@@ -28,7 +28,7 @@
 
 [R] --> Roll
 
-[W] --> (While hovering a create item) 
+[W] --> (While hovering a create item)
 View details about the create item
 
 --Misc--
