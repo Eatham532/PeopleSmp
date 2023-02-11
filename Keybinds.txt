@@ -21,8 +21,8 @@
 [Z] --> Zoom
 [Z + Scroll] --> Change zoom strength
 
-["["] --> Lower Brightness
-["]"] --> Raise Brightness
+[" [ "] --> Lower Brightness
+[" ] "] --> Raise Brightness
 
 [I] --> View Screenshots
 
