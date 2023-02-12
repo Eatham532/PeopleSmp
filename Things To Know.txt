@@ -1,4 +1,6 @@
 == LAST UPDATED: 10/02/23 ==
+* Note if you can't read everything
+change your gui scale
 
 
 ---Mod Descriptions---
