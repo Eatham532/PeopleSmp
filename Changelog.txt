@@ -1,3 +1,71 @@
 ** V2.13
 
+--Client--
+Removed
+- Emojifull
+- WTHIT
+- Anti Ghost
+- Tooltip Fix
+- Modmenu
+- No Chat Reports
+
+
+Added
+- Macaws Fences and Walls
+- Macaws Windows
+- Macaws Roofs
+- Macaws Lights and Lamps
+- Jade
+- Impaled
+- Diagonal panes
+- Sprint O meter
+- Noxesium
+- Dynamic Music updated
+- Adaptive Tooltips
+- More Mobs
+- Create
+- Cataloge
+- Menuloge
+- Distinguished Potions
+- Straw Statues
+- Aqua Acrobatics
+- Goblin Traders
+
+
+--Server--
+
+Removed
+- Emojifull
+- RPG Difficulty
+- LevelZ
+- JobsAddon
+- No chat reports
+- PeopleSmp Datapack
+- Armour Stand datapack
+
+Added
+- Eroding stone entities
+- More Mobs
+- Diagonal panes
+- Impaled
+- Macaws Fences and Walls
+- Macaws Windows
+- Macaws Roofs
+- Macaws Lights and Lamps
+- Let Me Despawn
+- Head Name Fix
+- Slumber
+- Dimensional Threading (Only once specs upgrade)
+- Straw Statues
+- Armor Statues
+- Create
+- Aqua Acrobatics
+- Vivecraft
+- Goblin Traders
+
+Fixed
+- Another furniture not working
+
+Other
+- Set a world border to 20 000 blocks wide
 
