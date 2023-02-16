@@ -2,6 +2,8 @@
 * Note if you can't read everything
 change your gui scale
 
+Right now there is a bug in the menu where if you want to go back it will go back
+to the main menu. If you don't want to go to the menu press esc instead!
 
 ---Mod Descriptions---
   Create
