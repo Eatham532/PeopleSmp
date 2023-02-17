@@ -5,7 +5,23 @@ change your gui scale
 Right now there is a bug in the menu where if you want to go back it will go back
 to the main menu. If you don't want to go to the menu press esc instead!
 
+
+---Important features you should know---
+  
+- Mobs will despawn if they have armour or an item in their hand. To stop them from despawning you need to nametag them!
+This is becauses entities are the largest causes of lag.
+- If you name tag a mob "Silence Me" they won't make any more noises!
+- Make sure to put your cape in the cape slot so that you don't loose it!
+- Shift right clicking an Armor Stand and a Straw Statue with a stick will open up a gui to configure the armour stand!
+- To put an item in an item frame you need to press shift then right click. Then to remove it don't shift!
+- There is a world border at 20,000 blocks (overworld)
+- Enhance your netherite gear with a gem found underground in certain biomes
+- You can use shaders but be warned one of the mods is incompatable so you may see some glitches
+- The server is compatable with VR! There is a vr change button on the home screen to switch. The mod is only installed
+so that you can see VR people's movements.
+
 ---Mod Descriptions---
+
   Create
     Its quite complex, but basicly it just uses irl physics to make stuff
   Croptopia: MORE FOOD
@@ -21,10 +37,8 @@ to the main menu. If you don't want to go to the menu press esc instead!
   Wondrous Wild
 Then there are lots of other mods that are on the server but boost your performance
 
----Important features you should know---
-  
-- Mobs will despawn if they have armour or an item in their hand. To stop them from despawning you need to nametag them!
-Entities are the largest causes of lag.
-- Goblins give you some really neat trades. However you will only find them in 2 of the 3 dimentions. 
-- If you name tag a mob "Silence Me" they won't make any more noises!
-- Make sure to put your cape in the cape slot so that you don't loose it!
+
+---Random Facts--
+
+- Did you know Ethan custom made the side of the mycelium textures?
+- The server started because of a CS assessment
