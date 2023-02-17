@@ -19,6 +19,7 @@ This is becauses entities are the largest causes of lag.
 - You can use shaders but be warned one of the mods is incompatable so you may see some glitches
 - The server is compatable with VR! There is a vr change button on the home screen to switch. The mod is only installed
 so that you can see VR people's movements.
+- The only two mods disabled in the modpack is Litematica and Replay Mod. Both are included and can be renabled.
 
 ---Mod Descriptions---
 
