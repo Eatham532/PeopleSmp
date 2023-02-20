@@ -23,6 +23,8 @@ so that you can see VR people's movements.
 - You can sharpen your tools on a grindstone!
 - If you rename an item it won't despawn if you drop it!
 - A reindeer is a flying alternative to the elytra
+- You can now interact with fletching tables
+- Using signs, you can notify people when they enter your area
 
 ---Mod Descriptions---
 
