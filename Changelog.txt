@@ -35,7 +35,6 @@ Removed
 - Modmenu
 - No Chat Reports
 
-
 Added
 - Macaws Fences and Walls
 - Macaws Windows
@@ -59,7 +58,6 @@ Added
 
 
 --Server--
-
 Removed
 - Emojifull
 - RPG Difficulty
