@@ -1,4 +1,30 @@
-** V2.13
+** V2.13.8
+
+Just a small update to remove the tag on the PeopleSmp server saying that it is built-in
+
+
+
+** V2.13.7
+QUICK PATCH OF 2.13.6!
+
+Fixed:
+- Game can't start
+
+
+
+** V2.13.5
+
+What's new?
+- Removed some textures that look bad
+- Removed Incendium welcome message
+- Config changes
+ 
+Updated
+- ImmediatelyFast
+
+
+
+** V2.13.5
 
 --Client--
 Removed
