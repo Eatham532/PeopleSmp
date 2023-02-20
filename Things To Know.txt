@@ -1,4 +1,4 @@
-== LAST UPDATED: 18/02/23 ==
+== LAST UPDATED: 20/02/23 ==
 * Note if you can't read everything
 change your gui scale
 
@@ -20,6 +20,9 @@ This is becauses entities are the largest causes of lag.
 - The server is compatable with VR! There is a vr change button on the home screen to switch. The mod is only installed
 so that you can see VR people's movements.
 - The only two mods disabled in the modpack is Litematica and Replay Mod. Both are included and can be renabled.
+- You can sharpen your tools on a grindstone!
+- If you rename an item it won't despawn if you drop it!
+- A reindeer is a flying alternative to the elytra
 
 ---Mod Descriptions---
 
