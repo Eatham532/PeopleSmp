@@ -27,6 +27,15 @@ so that you can see VR people's movements.
 - Using signs, you can notify people when they enter your area
 - In your inventory there is a button that gives you an in-game wiki for 2 mods!
 
+---Weapon Abilities---
+- Double handed axe: basic sweeping damage + blocking
+- Longsword: blocking
+- Dagger: extra damage while sneaking/invisible
+- Healing Staff: heals player itself and creates aura for support
+- Lance: extra damage while riding
+- Mace: chance to stun enemy
+- Rapier: chance to let enemy bleed
+- Sickle: scythe wheat
 ---Mod Descriptions---
 
   Create
