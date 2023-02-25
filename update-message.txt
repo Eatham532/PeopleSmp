@@ -1,7 +1,13 @@
-V2.13.9
+V2.14
 
-What's new?
-- Changes
 
-Else
-- More changes
+What's in this update?
+- Updated some mods
+
+- Removed glass pane connected textures as they had issues
+
+- Added a menu that shows after you update with info about the new update
+
+- Made it so that you can't play multiplayer on an old version (So that players are forced to update)
+
+- Mythic Upgrades now has Medieval Weapons support
